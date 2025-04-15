@@ -1,2 +1,4 @@
-# linux-mac-changer
-"MAC addressni o‘zgartirish orqali anonimlikni oshiruvchi oddiy CLI dastur"
+## ⚠️ Ogohlantirish
+
+Ushbu skript faqat o‘rganish va test qilish maqsadida yaratilgan. Uni noqonuniy maqsadlarda ishlatish tavsiya etilmaydi va muallif hech qanday javobgarlikni o‘z zimmasiga olmaydi.
+
